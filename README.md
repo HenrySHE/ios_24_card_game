@@ -11,3 +11,7 @@
 3. You need to try to make the result become 24, using those cards and those opeation signs. (Each one can only use once).
 
 4. The total result will be shown on the result, and if it is correct, it will add one mark, else loose one mark.
+
+## Screenshot:
+
+[image1](ios_24_card_game/屏幕快照 2017-11-14 下午4.23.52.png)

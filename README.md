@@ -13,5 +13,5 @@
 4. The total result will be shown on the result, and if it is correct, it will add one mark, else loose one mark.
 
 ## Screenshot:
-![image1] (屏幕快照 2017-11-14 下午4.23.52.png)
+![image1](屏幕快照 2017-11-14 下午4.23.52.png)
 

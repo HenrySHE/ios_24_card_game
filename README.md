@@ -13,7 +13,6 @@
 4. The total result will be shown on the result, and if it is correct, it will add one mark, else loose one mark.
 
 ## Screenshot:
-![image1](/ios_24_card_game/屏幕快照 2017-11-14 下午4.23.52.png)
 
-![alt](/屏幕快照 2017-11-14 下午4.23.52.png)
+![alt](https://raw.githubusercontent.com/HenrySHE/ios_24_card_game/master/屏幕快照%202017-11-14%20下午4.23.52.png)
 
